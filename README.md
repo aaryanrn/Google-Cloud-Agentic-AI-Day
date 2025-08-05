@@ -34,13 +34,13 @@ City Pulse unifies those scattered signals into a single, living dashboard:
 
 ## 4 | Architecture
 
-<img src="images/architecture.png" alt="System-level architecture" width="800">
+<img src="architecture.png" alt="System-level architecture" width="800">
 
 ---
 
 ## 5 | User Flow
 
-<img src="images/process.png" alt="End-to-end user flow" width="800">
+<img src="process.png" alt="End-to-end user flow" width="800">
 
 ---
 
