@@ -34,13 +34,13 @@ City Pulse unifies those scattered signals into a single, living dashboard:
 
 ## 4 | Architecture
 
-<img src="architecture.png" alt="System-level architecture" width="800">
+<img src="Architecture PNG (2).png" alt="System-level architecture" width="800">
 
 ---
 
 ## 5 | User Flow
 
-<img src="process.png" alt="End-to-end user flow" width="800">
+<img src="Flow_chart.jpg" alt="End-to-end user flow" width="800">
 
 ---
 
@@ -57,6 +57,4 @@ City Pulse unifies those scattered signals into a single, living dashboard:
 | Deployment       | Firebase Hosting (frontend) • Cloud Run (backend) |
 
 ---
-
-## 7 | Repository Layout
 
