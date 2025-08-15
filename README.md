@@ -5,7 +5,7 @@
 
 ## 1 | Problem
 
-Cities like Bengaluru spew out torrents of information every minute, yet the data is *fragmented, noisy and late* — tweets, news flashes and citizen reports pile up faster than officials can react, leading to poor situational awareness and slow response.
+Cities like Bengaluru spew out torrents of information every minute, yet the data is *fragmented, noisy and late* tweets, news flashes and citizen reports pile up faster than officials can react, leading to poor situational awareness and slow response.
 
 ---
 
