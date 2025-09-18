@@ -1,4 +1,4 @@
-# 🌆 City Pulse — Real-Time Urban Intelligence  
+# 🌆 City Pulse — Real-Time Urban Intelligence   
 **Google Cloud Agentic AI Day Hackathon 2025** • Top 850 / 9 100 teams • Guinness-certified largest generative-AI hackathon
 
 ---
